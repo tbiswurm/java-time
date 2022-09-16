@@ -3,9 +3,9 @@
 
 Welcome to _Java Time!_ In this repository, I build mini-projects to refresh and improve my Java skills.
 
-Feel free to look around! To make things easier, a little directory: 
+Feel free to nose around! To make things easier, a little directory: 
 
-### [JavaMarket!](./java-market)
+### [JavaMarket](./java-market)
 An object-oriented program simulating a typical supermarket.
 
 ### [Codewars Solutions](./codewars-solutions)

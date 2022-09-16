@@ -1,16 +1,9 @@
-:coffee: JavaMarket! :tada:
+:convenience_store: JavaMarket :shopping_cart:
 =================================================
 
-Welcome to _JavaMarket!_ In this mini-project, I refresh my Java skills.
+\*_Beep boop!_\* Thank you for choosing _JavaMarket_ for your grocery needs. Read on for a little tour of our humble
+establishment.
 
-
-
-Table of contents
------------------
-
-* [Introduction](#introduction)
-* [Installation](#installation)
-* [Usage](#usage)
 
 
 Introduction
