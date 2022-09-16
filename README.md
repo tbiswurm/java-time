@@ -1,4 +1,4 @@
-:coffee: Java Time! :tada:
+:coffee:  Java Time!  :tada:
 =================================================
 
 Welcome to _Java Time!_ In this repository, I build mini-projects to refresh and improve my Java skills.

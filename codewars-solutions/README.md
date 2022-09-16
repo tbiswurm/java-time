@@ -1,4 +1,4 @@
-:crossed_swords: Codewars Solutions :bow_and_arrow:
+:crossed_swords:  Codewars Solutions  :bow_and_arrow:
 =================================================
 
 I have solved Codewars programming problems ("kata") up to a difficulty of **7 kyu**. See a sample solution [here](#My solutions).

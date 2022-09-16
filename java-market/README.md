@@ -1,4 +1,4 @@
-:convenience_store: JavaMarket :shopping_cart:
+:convenience_store:  JavaMarket  :shopping_cart:
 =================================================
 
 \*_Beep boop!_\* Thank you for choosing _JavaMarket_ for your grocery needs. Read on for a little tour of our humble
