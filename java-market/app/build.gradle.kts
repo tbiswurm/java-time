@@ -11,6 +11,13 @@ plugins {
     application
 }
 
+tasks.jar {
+    manifest {
+        attributes["Main-Class"] = "tbiswurm.javamarket.JavaMarket"
+    }
+    archiveFileName.set("JavaMarket.jar")
+}
+
 repositories {
     // Use Maven Central for resolving dependencies.
     mavenCentral()
