@@ -26,7 +26,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass.set("tbiswurm.javamarket.App")
+    mainClass.set("tbiswurm.javamarket.JavaMarket")
 }
 
 tasks.named<Test>("test") {

@@ -3,12 +3,12 @@
  */
 package tbiswurm.javamarket;
 
-public class App {
+public class JavaMarket {
     public String getGreeting() {
-        return "Hello World!";
+        return "Welcome to JavaMarket!";
     }
 
     public static void main(String[] args) {
-        System.out.println(new App().getGreeting());
+        System.out.println(new JavaMarket().getGreeting());
     }
 }
