@@ -35,18 +35,18 @@ high-level features:
 Installation
 ------------
 
-// TODO
-<!--
-Begin this section by mentioning any prerequisites that may be important for users to have before they can use your software.  Examples include hardware and operating system requirements.
+Prerequisites: Java v18, git
 
-Next, provide step-by-step instructions for installing the software, preferably with command examples that can be copy-pasted by readers into their software environments. For example:
+You can install JavaMarket one of two ways.
 
-```bash
-a command-line command here
-```
+#### Option 1: Run the program from a standard .jar file
+1. Download the latest `.jar` file from the [releases directory](./releases).
+2. In a terminal, execute `java -jar <downloaded-jar>.jar`.
 
-Sometimes, subsections may be needed for different operating systems or particularly complicated installations.
--->
+#### Option 2: Run the program with Gradle
+1. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) this repo to your local machine.
+2. In your terminal, navigate to the `java-market` directory.
+3. On a Mac/Linux terminal, execute `./gradlew run`. On a Windows prompt, execute `gradlew run`.
 
 
 
